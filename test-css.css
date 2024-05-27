@@ -2,7 +2,7 @@
   background: red;
 }
 
-#widget2 .page {
-  flex-direction: row;
+.page {
+  flex-direction: row !important;
 }
 
