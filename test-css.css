@@ -1,6 +1,8 @@
 #widget2 {
-  .page {
-    flex-direction: row;
-  }
   background: red;
 }
+
+#widget2 .page {
+  flex-direction: row;
+}
+
